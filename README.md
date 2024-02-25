@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Developer for intuitive user interfaces</h3>
 <img align="right" alt="frontend" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnFqbnRweGV5Z3p3dmh6ZTBxODBhcTMwYjRyeHV1bnF6dHhjMDE1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-- 🔭 I’m currently working on **Html css js react**
+- 🔭 I’m currently working on **YoddhaLab**
 
 - 🌱 I’m currently learning **Redux Toolkit , Rtk query**
 
