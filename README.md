@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Frontend Developer | Seeking exciting projects</h1>
 <h3 align="center">Passionate Developer for intuitive user interfaces</h3>
-<img align="right" alt="frontend" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="frontend" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnFqbnRweGV5Z3p3dmh6ZTBxODBhcTMwYjRyeHV1bnF6dHhjMDE1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 - 🔭 I’m currently working on **Html css js react**
 
